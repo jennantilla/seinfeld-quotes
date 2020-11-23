@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="get_button">GET QUOTE</string>
+    <string name="content_description">Seinfeld logo</string>
+</resources>
