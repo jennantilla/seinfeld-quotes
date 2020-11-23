@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
                             e.printStackTrace();
                         }
 
-                        mTextViewResult.append(quote + "\n" + "-" + author + "\n\n" + "season " + season + ", " + "episode " + episode);
+                        mTextViewResult.append(quote + "\n\n" + "-" + author + "\n\n" + "season " + season + ", " + "episode " + episode);
                     }
                 }, new Response.ErrorListener() {
             @Override
