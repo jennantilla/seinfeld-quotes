@@ -4,10 +4,7 @@
 
 This mobile application utilizes the [Seinfeld Quotes API][1] to generate random quotes from the show at the push of a button.
 
-Users are notified when new quotes are added via [OneSignal's Android Mobile SDK][2].
-
 [1]: https://seinfeld-quotes.herokuapp.com/
-[2]: https://documentation.onesignal.com/docs/android-sdk-setup
 
 ## Running the App
 
